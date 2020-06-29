@@ -1,0 +1,9 @@
+addon selenium version 4.104.0.0
+addon core version 4.107.0.0
+selenium.open chrome url youtube.com 
+delay 5 
+selenium.type ‴Taylor Swift blank space song‴  search search_query by name
+selenium.click search //*[@id="search-icon-legacy"] by xpath 
+delay 5 
+mouse.click button left position 250⫽300
+
