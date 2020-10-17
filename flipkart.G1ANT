@@ -2,11 +2,11 @@ addon selenium version 4.104.0.0
 addon core version 4.107.0.0
 selenium.open chrome url https://www.flipkart.com/
 window ✱chrome✱ style maximize
-delay 10
+delay ->10
 selenium.click search _2AkmmA by class
-delay 5
+delay ->5
 selenium.type ‴iphone11‴ search LM6RPg by class
 keyboard ⋘ENTER⋙
 selenium.click search _3wU53n by class
-delay 15
+delay -> 15
 selenium.click search _2Npkh4 by class
